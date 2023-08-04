@@ -19,5 +19,6 @@ This is a Fund Me app, developed for learning Foundry (Full Course by Patrick Co
 ```
 git clone https://github.com/dexv2/foundry-fund-me
 cd foundry-fund-me
+forge install
 forge build
 ```
